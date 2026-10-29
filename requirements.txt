@@ -1,0 +1,10 @@
+pandas>=2.2,<3
+numpy>=2.0,<3
+scipy>=1.14,<2
+openpyxl>=3.1,<4
+streamlit>=1.40,<2
+python-dotenv>=1.0,<2
+pydantic>=2.9,<3
+openai-agents>=0.16.0,<0.17.0
+pytest>=8.0,<9
+pytest-cov>=5.0,<6

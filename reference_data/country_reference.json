@@ -1,0 +1,23 @@
+{
+  "countries": {
+    "usa": [
+      "USA",
+      "US",
+      "U.S.",
+      "United States",
+      "United States of America"
+    ],
+    "uk": [
+      "UK",
+      "U.K.",
+      "United Kingdom",
+      "Great Britain",
+      "GB"
+    ],
+    "india": [
+      "India",
+      "IN",
+      "Bharat"
+    ]
+  }
+}

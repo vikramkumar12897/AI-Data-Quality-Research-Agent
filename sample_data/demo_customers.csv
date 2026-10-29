@@ -1,0 +1,10 @@
+customer_id,country,age,status,activity_date,annual_spend
+C001,USA,28,Active,2026-08-01,1200
+C002,US,29,Active,2026-08-02,1350
+C003,U.S.,31,Inactive,2026-09-15,980
+C004,India,,Active,2026-08-04,1100
+C005,India,33,Active,bad-date,1050
+C006,India,34,Active,2026-08-06,1020
+C006,India,34,Active,2026-08-06,1020
+C007,India,35,Active,2026-08-07,1075
+C008,India,500,Active,2026-08-08,1400
